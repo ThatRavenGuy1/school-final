@@ -55,3 +55,8 @@ details[open] summary {
 #p-list1{
   font-size: 1.5rem;
 }
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
